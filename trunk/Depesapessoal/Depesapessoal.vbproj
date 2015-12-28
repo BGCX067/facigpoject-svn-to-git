@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{37C01392-55EE-4388-86CF-DEB7778EFAC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Depesapessoal.My.MyApplication</StartupObject>
+    <RootNamespace>Depesapessoal</RootNamespace>
+    <AssemblyName>Depesapessoal</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Depesapessoal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Depesapessoal.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3694053795E25457A545FAF56F7A8D21ABA4C35B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Depesapessoal_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data">
+      <HintPath>libary\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\Categoria.vb" />
+    <Compile Include="classes\Despesa.vb" />
+    <Compile Include="classes\Receitas.vb" />
+    <Compile Include="classes\TipoCategoria.vb" />
+    <Compile Include="classes\Usuario.vb" />
+    <Compile Include="Dados\DataBase.vb" />
+    <Compile Include="Despesas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Despesas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmCadastarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmCadastarUsuario.Designer.vb">
+      <DependentUpon>FrmCadastarUsuario.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmCategoria.Designer.vb">
+      <DependentUpon>FrmCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmDespesa.Designer.vb">
+      <DependentUpon>FrmDespesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmDespesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmGridCategoria.Designer.vb">
+      <DependentUpon>FrmGridCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmGridCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmGridDespesa.Designer.vb">
+      <DependentUpon>FrmGridDespesa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmGridDespesa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmGridReceita.Designer.vb">
+      <DependentUpon>FrmGridReceita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmGridReceita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\frmGridUsuario.Designer.vb">
+      <DependentUpon>frmGridUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\frmGridUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmReceitas.Designer.vb">
+      <DependentUpon>FrmReceitas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmReceitas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmRelatorio.Designer.vb">
+      <DependentUpon>FrmRelatorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmRelatorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmRelatReceita.Designer.vb">
+      <DependentUpon>FrmRelatReceita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmRelatReceita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\FrmSobre.Designer.vb">
+      <DependentUpon>FrmSobre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\FrmSobre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="funções\Validate.vb" />
+    <Compile Include="MDIPRINCIPAL.Designer.vb">
+      <DependentUpon>MDIPRINCIPAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIPRINCIPAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RelatReceitas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RelatReceitas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Despesas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Despesas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmCadastarUsuario.resx">
+      <DependentUpon>FrmCadastarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmCategoria.resx">
+      <DependentUpon>FrmCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmDespesa.resx">
+      <DependentUpon>FrmDespesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmGridCategoria.resx">
+      <DependentUpon>FrmGridCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmGridDespesa.resx">
+      <DependentUpon>FrmGridDespesa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmGridReceita.resx">
+      <DependentUpon>FrmGridReceita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\frmGridUsuario.resx">
+      <DependentUpon>frmGridUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmReceitas.resx">
+      <DependentUpon>FrmReceitas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmRelatorio.resx">
+      <DependentUpon>FrmRelatorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmRelatReceita.resx">
+      <DependentUpon>FrmRelatReceita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\FrmSobre.resx">
+      <DependentUpon>FrmSobre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPRINCIPAL.resx">
+      <DependentUpon>MDIPRINCIPAL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelatReceitas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RelatReceitas.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Depesapessoal_TemporaryKey.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="libary\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

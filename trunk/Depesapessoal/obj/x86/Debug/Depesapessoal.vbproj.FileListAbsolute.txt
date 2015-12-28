@@ -1,0 +1,144 @@
+D:\sistemas\Depesapessoal\Depesapessoal\bin\Debug\Depesapessoal.exe
+D:\sistemas\Depesapessoal\Depesapessoal\bin\Debug\Depesapessoal.pdb
+D:\sistemas\Depesapessoal\Depesapessoal\bin\Debug\Depesapessoal.xml
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCadastrarUsuario.resources
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmDespesa.resources
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.Resources.resources
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.vbproj.GenerateResource.Cache
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmLogin.resources
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmPlano.resources
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmReceitas.resources
+D:\sistemas\Depesapessoal\Depesapessoal\bin\Debug\MySql.Data.dll
+D:\sistemas\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.vbprojResolveAssemblyReference.cache
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\sistemas2\Depesapessoal\Depesapessoal\bin\Debug\Depesapessoal.exe
+D:\sistemas2\Depesapessoal\Depesapessoal\bin\Debug\Depesapessoal.pdb
+D:\sistemas2\Depesapessoal\Depesapessoal\bin\Debug\Depesapessoal.xml
+D:\sistemas2\Depesapessoal\Depesapessoal\bin\Debug\MySql.Data.dll
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.vbprojResolveAssemblyReference.cache
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCadastrarUsuario.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmDespesa.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmLogin.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmPlano.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmReceitas.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.MDIPRINCIPAL.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.Resources.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.vbproj.GenerateResource.Cache
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCategoria.resources
+D:\sistemas2\Depesapessoal\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmPeriodo.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\Depesapessoal.exe
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\Depesapessoal.xml
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\MySql.Data.dll
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.vbprojResolveAssemblyReference.cache
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCadastrarUsuario.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCategoria.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmDespesa.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmLogin.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmReceitas.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.MDIPRINCIPAL.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.Resources.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.vbproj.GenerateResource.Cache
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridCategoria.resources
+D:\sistemas\facigproject1\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\sistemas\facigproject1\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\sistemas\facigproject1\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject2\Depesapessoal\bin\Debug\Depesapessoal.exe
+D:\sistemas\facigproject2\Depesapessoal\bin\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject2\Depesapessoal\bin\Debug\Depesapessoal.xml
+D:\sistemas\facigproject2\Depesapessoal\bin\Debug\MySql.Data.dll
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.vbprojResolveAssemblyReference.cache
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCadastrarUsuario.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCategoria.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmDespesa.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridCategoria.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmLogin.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmPeriodo.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmPlano.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmReceitas.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.SplashScreen1.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.MDIPRINCIPAL.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.Resources.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.vbproj.GenerateResource.Cache
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridDespesa.resources
+D:\sistemas\facigproject2\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridUsuario.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridDespesa.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.frmGridUsuario.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridReceita.resources
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\Depesapessoal.exe.config
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\Depesapessoal.exe.manifest
+D:\sistemas\facigproject\Depesapessoal\bin\Debug\Depesapessoal.application
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.TrustInfo.xml
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.exe.manifest
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.application
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmRelatorio.resources
+D:\facigproject\Depesapessoal\bin\Debug\Depesapessoal.exe.config
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\facigproject\Depesapessoal\bin\Debug\Depesapessoal.exe.manifest
+D:\facigproject\Depesapessoal\bin\Debug\Depesapessoal.application
+D:\facigproject\Depesapessoal\bin\Debug\Depesapessoal.exe
+D:\facigproject\Depesapessoal\bin\Debug\Depesapessoal.pdb
+D:\facigproject\Depesapessoal\bin\Debug\Depesapessoal.xml
+D:\facigproject\Depesapessoal\bin\Debug\MySql.Data.dll
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.vbprojResolveAssemblyReference.cache
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCadastrarUsuario.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCategoria.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmDespesa.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridCategoria.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridDespesa.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridReceita.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.frmGridUsuario.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmLogin.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmReceitas.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmRelatorio.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.Sobre.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.MDIPRINCIPAL.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.Resources.resources
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.vbproj.GenerateResource.Cache
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.TrustInfo.xml
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.exe.manifest
+D:\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.application
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmRelatReceita.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\Depesapessoal.exe.config
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.exe
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.xml
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\Depesapessoal.exe.manifest
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\Depesapessoal.application
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\Depesapessoal.exe
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\Depesapessoal.pdb
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\Depesapessoal.xml
+D:\sistemas\facigproject - Copia\Depesapessoal\bin\Debug\MySql.Data.dll
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.vbprojResolveAssemblyReference.cache
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCadastrarUsuario.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmCategoria.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmDespesa.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridCategoria.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridDespesa.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmGridReceita.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.frmGridUsuario.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmLogin.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmReceitas.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmRelatorio.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmRelatReceita.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.MDIPRINCIPAL.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.Resources.resources
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.vbproj.GenerateResource.Cache
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.TrustInfo.xml
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.exe.manifest
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.application
+D:\sistemas\facigproject - Copia\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmSobre.resources
+D:\sistemas\facigproject\Depesapessoal\obj\x86\Debug\Depesapessoal.FrmSobre.resources
